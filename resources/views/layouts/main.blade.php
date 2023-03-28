@@ -161,13 +161,13 @@
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a href="pages/gallery.html" class="nav-link">
+                        <a href="{{ route('color.index') }}" class="nav-link">
                             <i class="nav-icon far fa-image"></i>
                             <p>Цвета</p>
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a href="pages/gallery.html" class="nav-link">
+                        <a href="{{ route('user.index') }}" class="nav-link">
                             <i class="nav-icon far fa-image"></i>
                             <p>Пользователи</p>
                         </a>
