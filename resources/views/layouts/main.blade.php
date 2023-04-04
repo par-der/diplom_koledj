@@ -151,6 +151,12 @@
                         </a>
                     </li>
                     <li class="nav-item">
+                        <a href="{{ route('group.index') }}" class="nav-link">
+                            <i class="nav-icon fas fa-list"></i>
+                            <p>Группы</p>
+                        </a>
+                    </li>
+                    <li class="nav-item">
                         <a href="{{ route('category.index') }}" class="nav-link">
                             <i class="nav-icon far fa-image"></i>
                             <p>Категории</p>
