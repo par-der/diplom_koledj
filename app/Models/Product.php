@@ -2,11 +2,14 @@
 
 namespace App\Models;
 
+use App\Models\Traits\Filterable;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
 class Product extends Model
 {
+    use Filterable;
+
     protected $table = 'products';
     protected $guarded = false;
 
@@ -23,6 +26,11 @@ class Product extends Model
     public function colors()
     {
         return $this->belongsToMany(Color::class, 'color_products', 'product_id', 'color_id');
+    }
+
+    public function productImages()
+    {
+        return $this->hasMany(ProductImage::class, 'product_id', 'id');
     }
 
 }
