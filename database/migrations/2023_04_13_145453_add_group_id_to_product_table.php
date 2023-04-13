@@ -15,7 +15,6 @@ return new class extends Migration
     {
         Schema::table('products', function (Blueprint $table) {
             $table->foreignId('group_id')->nullable()->index()->constrained('group_id');
-
         });
     }
 

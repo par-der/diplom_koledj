@@ -7,9 +7,11 @@ use App\Http\Filters\ProductFilter;
 use App\Http\Requests\API\Product\IndexRequest;
 use App\Http\Resources\Product\IndexProductResource;
 use App\Models\Product;
+use Illuminate\Contracts\Container\BindingResolutionException;
 
 class IndexController extends Controller
 {
+
     public function __invoke(IndexRequest $request)
     {
         $data = $request->validated();

@@ -3,7 +3,8 @@
 namespace App\Http\Controllers\Product;
 
 use App\Http\Controllers\Controller;
-use App\Http\Requests\Product\IndexRequest;
+//use App\Http\Requests\API\Product\IndexRequest;
+use App\Http\Requests\Product\StoreRequest;
 use App\Models\Color;
 use App\Models\ColorProduct;
 use App\Models\Product;
@@ -14,7 +15,7 @@ use Illuminate\Support\Facades\Storage;
 
 class StoreController extends Controller
 {
-    public function __invoke(IndexRequest $request)
+    public function __invoke(StoreRequest $request)
     {
         $data = $request->validated();
 
