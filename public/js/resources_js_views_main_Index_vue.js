@@ -48,7 +48,7 @@ var _hoisted_1 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementV
 }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
   "class": "newsLetter-popup__thumb imgenews"
 }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
-  src: "/assets/images/home-three/products-1.jpg",
+  src: "/assets/images/home-three/join-with-us.jpg",
   alt: "newsletter"
 })])]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
   "class": "col-lg-7 col-md-8 col-sm-10"
@@ -96,7 +96,7 @@ var _hoisted_1 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementV
   "class": "contant-box position-relative"
 }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
   "class": "bg-img hundread-vh",
-  src: "/assets/images/home-three/home-3-bg.jpg",
+  src: "/assets/images/home-three/main-foto-1.jpg",
   alt: "image"
 }), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
   "class": "content-holder p-0 absolute-content"
@@ -111,7 +111,7 @@ var _hoisted_1 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementV
 }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h6", {
   "class": "new wow animated fadeInUp"
 }, "NEW COLLECTION"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h1", {
-  "class": "wow animated fadeInUp",
+  "class": "wow animated fadeInUp text-white",
   "data-wow-delay": "0.4s"
 }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Run anywhere "), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("br"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" comfort everywhere. ")]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
   "class": "text wow animated fadeInUp"
@@ -124,7 +124,7 @@ var _hoisted_1 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementV
   "class": "contant-box position-relative"
 }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
   "class": "bg-img hundread-vh",
-  src: "/assets/images/home-three/home-3-bg-2.jpg",
+  src: "/assets/images/home-three/main-foto-2.jpg",
   alt: "image"
 }), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
   "class": "content-holder p-0 absolute-content"
@@ -158,7 +158,7 @@ var _hoisted_1 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementV
   href: "shop-grid.html",
   "class": "catagory-single one home3cat"
 }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
-  src: "/assets/images/home-three/cat-1.png",
+  src: "/assets/images/home-three/iphone13.jpg",
   alt: "#",
   "class": "background-img bg-img imgone"
 }), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
@@ -173,7 +173,7 @@ var _hoisted_1 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementV
 }, " Shop & Save"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h3", {
   "class": "wow animated fadeInUp",
   "data-wow-delay": "0.3s"
-}, " Exclusive Women Shoes "), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("span", {
+}, " Exclusive Mobile Phone "), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("span", {
   "class": "link wow animated fadeInUp",
   "data-wow-delay": "0.4s"
 }, " explore now")])])])])]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
@@ -186,7 +186,7 @@ var _hoisted_1 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementV
   href: "shop-grid.html",
   "class": "catagory-single home3cat"
 }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
-  src: "/assets/images/home-three/catbg-3.png",
+  src: "/assets/images/home-three/MacBook-1.jpg",
   alt: "",
   "class": "background-img bg-img"
 }), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
@@ -201,7 +201,7 @@ var _hoisted_1 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementV
 }, " 20% Off "), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h3", {
   "class": "wow animated fadeInUp",
   "data-wow-delay": "0.3s"
-}, " Men Sneakers "), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("span", {
+}, " Laptop "), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("span", {
   "class": "link wow animated fadeInUp",
   "data-wow-delay": "0.4s"
 }, " explore now")])])])])]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
@@ -210,7 +210,7 @@ var _hoisted_1 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementV
   href: "shop-grid.html",
   "class": "catagory-single home3cat"
 }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
-  src: "/assets/images/home-three/catbg-2.png",
+  src: "/assets/images/home-three/sony-camera-2.jpg",
   alt: "",
   "class": "background-img bg-img"
 }), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
@@ -225,7 +225,7 @@ var _hoisted_1 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementV
 }, " New Products "), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h3", {
   "class": "wow animated fadeInUp",
   "data-wow-delay": "0.3s"
-}, " Women Sneakers "), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("span", {
+}, " Professional Camera "), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("span", {
   "class": "link wow animated fadeInUp",
   "data-wow-delay": "0.4s"
 }, " explore now")])])])])])])])])])]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" catagory4 End "), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" Categories tab Start "), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("section", {
@@ -3495,13 +3495,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _Index_vue_vue_type_template_id_2fc5391b__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Index.vue?vue&type=template&id=2fc5391b */ "./resources/js/views/main/Index.vue?vue&type=template&id=2fc5391b");
 /* harmony import */ var _Index_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Index.vue?vue&type=script&lang=js */ "./resources/js/views/main/Index.vue?vue&type=script&lang=js");
-/* harmony import */ var E_lessens_diplom_project_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var C_Users_Terentev_PhpShtorm_Diplom_diplom_koledj_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
 
 ;
-const __exports__ = /*#__PURE__*/(0,E_lessens_diplom_project_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_Index_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_Index_vue_vue_type_template_id_2fc5391b__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/views/main/Index.vue"]])
+const __exports__ = /*#__PURE__*/(0,C_Users_Terentev_PhpShtorm_Diplom_diplom_koledj_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_Index_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_Index_vue_vue_type_template_id_2fc5391b__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/views/main/Index.vue"]])
 /* hot reload */
 if (false) {}
 

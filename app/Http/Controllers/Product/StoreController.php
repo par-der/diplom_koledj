@@ -3,7 +3,7 @@
 namespace App\Http\Controllers\Product;
 
 use App\Http\Controllers\Controller;
-//use App\Http\Requests\API\Product\IndexRequest;
+//use App\Http\Requests\API\Product\StoreRequest;
 use App\Http\Requests\Product\StoreRequest;
 use App\Models\Color;
 use App\Models\ColorProduct;

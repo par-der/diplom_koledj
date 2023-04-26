@@ -19975,8 +19975,35 @@ var _hoisted_44 = {
   "class": "dropdown-list"
 };
 var _hoisted_45 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("span", null, "Продукты", -1 /* HOISTED */);
-var _hoisted_46 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"side-cart-closer\"></div><div class=\"side-cart d-flex flex-column justify-content-between\"><div class=\"top\"><div class=\"content d-flex justify-content-between align-items-center\"><h6 class=\"text-uppercase\">Your Cart (03)</h6> <span class=\"cart-close text-uppercase\">X</span></div><div class=\"cart_items\"><div class=\"items d-flex justify-content-between align-items-center\"><div class=\"left d-flex align-items-center\"><a href=\"shop-details-1.html\" class=\"thumb d-flex justify-content-between align-items-center\"><img src=\"assets/images/shop/products-img1.jpg\" alt=\"\"></a><div class=\"text\"><a href=\"shop-details-1.html\"><h6>Diamond Bracelet</h6></a><p>2 X <span>$350.00</span></p></div></div><div class=\"right\"><div class=\"item-remove\"><i class=\"flaticon-cross\"></i></div></div></div><div class=\"items d-flex justify-content-between align-items-center\"><div class=\"left d-flex align-items-center\"><a href=\"shop-details-1.html\" class=\"thumb d-flex justify-content-between align-items-center\"><img src=\"assets/images/shop/products-img2.jpg\" alt=\"\"></a><div class=\"text\"><a href=\"shop-details-1.html\"><h6>Blacked Neckles </h6></a><p>1 X <span>$150.00</span></p></div></div><div class=\"right\"><div class=\"item-remove\"><i class=\"flaticon-cross\"></i></div></div></div><div class=\"items d-flex justify-content-between align-items-center\"><div class=\"left d-flex align-items-center\"><a href=\"shop-details-1.html\" class=\"thumb d-flex justify-content-between align-items-center\"><img src=\"assets/images/shop/products-img3.jpg\" alt=\"\"></a><div class=\"text\"><a href=\"shop-details-1.html\"><h6>Diamond Ring </h6></a><p>1 X <span>$200.00</span></p></div></div><div class=\"right\"><div class=\"item-remove\"><i class=\"flaticon-cross\"></i></div></div></div><div class=\"items d-flex justify-content-between align-items-center\"><div class=\"left d-flex align-items-center\"><a href=\"shop-details-2.html\" class=\"thumb d-flex justify-content-between align-items-center\"><img src=\"assets/images/shop/products-img4.jpg\" alt=\"\"></a><div class=\"text\"><a href=\"shop-details-1.html\"><h6>Women Earring</h6></a><p>1 X <span>$150.00</span></p></div></div><div class=\"right\"><div class=\"item-remove\"><i class=\"flaticon-cross\"></i></div></div></div></div></div><div class=\"bottom\"><div class=\"total-ammount d-flex justify-content-between align-items-center\"><h6 class=\"text-uppercase\">Total:</h6><h6 class=\"ammount text-uppercase\">$850.00</h6></div><div class=\"button-box d-flex justify-content-between\"><a href=\"cart.html\" class=\"btn_black\"> View Cart </a> <a href=\"cart.html\" class=\"button-2 btn_theme\"> Chekout </a></div></div></div><div class=\"sidebar-content-closer\"></div>", 3);
-var _hoisted_49 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+var _hoisted_46 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+  "class": "side-cart-closer"
+}, null, -1 /* HOISTED */);
+var _hoisted_47 = {
+  "class": "side-cart d-flex flex-column justify-content-between"
+};
+var _hoisted_48 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"top\"><div class=\"content d-flex justify-content-between align-items-center\"><h6 class=\"text-uppercase\">Your Cart (03)</h6> <span class=\"cart-close text-uppercase\">X</span></div><div class=\"cart_items\"><div class=\"items d-flex justify-content-between align-items-center\"><div class=\"left d-flex align-items-center\"><a href=\"shop-details-1.html\" class=\"thumb d-flex justify-content-between align-items-center\"><img src=\"assets/images/shop/products-img1.jpg\" alt=\"\"></a><div class=\"text\"><a href=\"shop-details-1.html\"><h6>Diamond Bracelet</h6></a><p>2 X <span>$350.00</span></p></div></div><div class=\"right\"><div class=\"item-remove\"><i class=\"flaticon-cross\"></i></div></div></div><div class=\"items d-flex justify-content-between align-items-center\"><div class=\"left d-flex align-items-center\"><a href=\"shop-details-1.html\" class=\"thumb d-flex justify-content-between align-items-center\"><img src=\"assets/images/shop/products-img2.jpg\" alt=\"\"></a><div class=\"text\"><a href=\"shop-details-1.html\"><h6>Blacked Neckles </h6></a><p>1 X <span>$150.00</span></p></div></div><div class=\"right\"><div class=\"item-remove\"><i class=\"flaticon-cross\"></i></div></div></div><div class=\"items d-flex justify-content-between align-items-center\"><div class=\"left d-flex align-items-center\"><a href=\"shop-details-1.html\" class=\"thumb d-flex justify-content-between align-items-center\"><img src=\"assets/images/shop/products-img3.jpg\" alt=\"\"></a><div class=\"text\"><a href=\"shop-details-1.html\"><h6>Diamond Ring </h6></a><p>1 X <span>$200.00</span></p></div></div><div class=\"right\"><div class=\"item-remove\"><i class=\"flaticon-cross\"></i></div></div></div><div class=\"items d-flex justify-content-between align-items-center\"><div class=\"left d-flex align-items-center\"><a href=\"shop-details-2.html\" class=\"thumb d-flex justify-content-between align-items-center\"><img src=\"assets/images/shop/products-img4.jpg\" alt=\"\"></a><div class=\"text\"><a href=\"shop-details-1.html\"><h6>Women Earring</h6></a><p>1 X <span>$150.00</span></p></div></div><div class=\"right\"><div class=\"item-remove\"><i class=\"flaticon-cross\"></i></div></div></div></div></div>", 1);
+var _hoisted_49 = {
+  "class": "bottom"
+};
+var _hoisted_50 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+  "class": "total-ammount d-flex justify-content-between align-items-center"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h6", {
+  "class": "text-uppercase"
+}, "Total:"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h6", {
+  "class": "ammount text-uppercase"
+}, "$850.00")], -1 /* HOISTED */);
+var _hoisted_51 = {
+  "class": "button-box d-flex justify-content-between"
+};
+var _hoisted_52 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("span", null, "В Корзину", -1 /* HOISTED */);
+var _hoisted_53 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
+  href: "cart.html",
+  "class": "button-2 btn_theme"
+}, " Chekout ", -1 /* HOISTED */);
+var _hoisted_54 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+  "class": "sidebar-content-closer"
+}, null, -1 /* HOISTED */);
+var _hoisted_55 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
   "class": "sidebar-content"
 }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
   "class": "sidebar-widget-container"
@@ -20077,7 +20104,7 @@ var _hoisted_49 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElement
 }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("i", {
   "class": "flaticon-youtube"
 })])])])])])])])])], -1 /* HOISTED */);
-var _hoisted_50 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<footer class=\"footer-default footer-3\"><div class=\"footer-default__shap_1 position-absolute\"><img src=\"/assets/images/shape/footer-shape-1.png\" alt=\"\"></div><!--Start Footer--><div class=\"footer-default__main-footer position-relative\"><div class=\"container\"><div class=\"row\"><div class=\"col-xl-3 col-lg-6 col-md-6 col-sm-12 mt-30 wow fadeInUp animated\"><div class=\"footer-default__single-box\"><div class=\"company-info\"><div class=\"footer-title\"><h4> Office</h4></div><div class=\"text1\"><p>29 Holles Place, Dublin 2 D02 YY46</p></div><div class=\"text2\"><p>68 Jay Street, Suite 902 New Side <br> Brooklyn, NY 11201</p></div><div class=\"text3\"><p>New York, United States</p></div></div></div></div><div class=\"col-xl-2 col-lg-6 col-md-6 col-sm-12 mt-30 wow fadeInUp animated\"><div class=\"footer-default__single-box\"><div class=\"footer-title\"><h4> Useful Links </h4></div><ul class=\"footer-links\"><li><a href=\"my-account.html\">Account</a></li><li><a href=\"login.html\">Sign In</a></li><li><a href=\"cart.html\">View Cart</a></li><li><a href=\"wishlist.html\">My WishList</a></li><li><a href=\"compare.html\">Compare Products</a></li></ul></div></div><div class=\"col-xl-3 col-lg-6 col-md-6 col-sm-12 mt-30 wow fadeInUp animated\"><div class=\"footer-default__single-box\"><div class=\"footer-title\"><h4> Information </h4></div><ul class=\"footer-links\"><li><a href=\"about-us.html\">About us</a></li><li><a href=\"contact.html\">Contact Us </a></li><li><a href=\"faq.html\">Faq</a></li><li><a href=\"blog.html\">Latest Posts</a></li><li><a href=\"order-track.html\">Order Track</a></li></ul></div></div><div class=\"col-xl-4 col-lg-6 col-md-6 col-sm-12 mt-30 wow fadeInUp animated\"><div class=\"footer-default__single-box\"><div class=\"footer-title\"><h4> Newsletter </h4></div><div class=\"footer-newsletter\"><p class=\"text\">Enter your email to receive our latest updates about our products &amp; promotions. </p><form action=\"#0\" class=\"footer-default__subscrib-form\"><div class=\"footer-input-box\"><input type=\"email\" placeholder=\"Email address\" name=\"email\"><button type=\"submit\" class=\"subscribe_btn\"> Subscribe </button></div></form><div class=\"newsletter-bottom d-flex align-items-center\"><div class=\"footer-title-box\"><p>Follow Us:</p></div><div class=\"footer__medio-boxx medio-boxx d-flex align-items-center\"><ul><li><a href=\"https://www.facebook.com/\" target=\"_blank\" class=\"active\"><i class=\"flaticon-facebook-app-symbol\"></i></a></li><li><a href=\"https://www.youtube.com/\" target=\"_blank\"><i class=\"flaticon-youtube\"></i></a></li><li><a href=\"https://twitter.com/\"><i class=\"flaticon-twitter\" target=\"_blank\"></i></a></li><li><a href=\"https://www.instagram.com/\"><i class=\"flaticon-instagram\" target=\"_blank\"></i></a></li></ul></div></div></div></div></div></div></div></div><!-- footer-bottom Footer--><div class=\"footer_bottom position-relative\"><div class=\"container\"><div class=\"footer_bottom_content\"><div class=\"copyright wow fadeInUp animated\"><p>© 2022 <a href=\"index.html\">Karte.</a> All Rights Reserved.</p></div><div class=\"footer-payment wow fadeInUp animated\"><a href=\"#0\"><img src=\"/assets/images/home-four/method-1.jpg\" alt=\"payment\"></a><a href=\"#0\"><img src=\"/assets/images/home-four/method-2.jpg\" alt=\"payment\"></a><a href=\"#0\"><img src=\"/assets/images/home-four/method-3.jpg\" alt=\"payment\"></a><a href=\"#0\"><img src=\"/assets/images/home-four/method-4.jpg\" alt=\"payment\"></a></div></div></div></div></footer>", 1);
+var _hoisted_56 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<footer class=\"footer-default footer-3\"><div class=\"footer-default__shap_1 position-absolute\"><img src=\"/assets/images/shape/footer-shape-1.png\" alt=\"\"></div><!--Start Footer--><div class=\"footer-default__main-footer position-relative\"><div class=\"container\"><div class=\"row\"><div class=\"col-xl-3 col-lg-6 col-md-6 col-sm-12 mt-30 wow fadeInUp animated\"><div class=\"footer-default__single-box\"><div class=\"company-info\"><div class=\"footer-title\"><h4> Office</h4></div><div class=\"text1\"><p>29 Holles Place, Dublin 2 D02 YY46</p></div><div class=\"text2\"><p>68 Jay Street, Suite 902 New Side <br> Brooklyn, NY 11201</p></div><div class=\"text3\"><p>New York, United States</p></div></div></div></div><div class=\"col-xl-2 col-lg-6 col-md-6 col-sm-12 mt-30 wow fadeInUp animated\"><div class=\"footer-default__single-box\"><div class=\"footer-title\"><h4> Useful Links </h4></div><ul class=\"footer-links\"><li><a href=\"my-account.html\">Account</a></li><li><a href=\"login.html\">Sign In</a></li><li><a href=\"cart.html\">View Cart</a></li><li><a href=\"wishlist.html\">My WishList</a></li><li><a href=\"compare.html\">Compare Products</a></li></ul></div></div><div class=\"col-xl-3 col-lg-6 col-md-6 col-sm-12 mt-30 wow fadeInUp animated\"><div class=\"footer-default__single-box\"><div class=\"footer-title\"><h4> Information </h4></div><ul class=\"footer-links\"><li><a href=\"about-us.html\">About us</a></li><li><a href=\"contact.html\">Contact Us </a></li><li><a href=\"faq.html\">Faq</a></li><li><a href=\"blog.html\">Latest Posts</a></li><li><a href=\"order-track.html\">Order Track</a></li></ul></div></div><div class=\"col-xl-4 col-lg-6 col-md-6 col-sm-12 mt-30 wow fadeInUp animated\"><div class=\"footer-default__single-box\"><div class=\"footer-title\"><h4> Newsletter </h4></div><div class=\"footer-newsletter\"><p class=\"text\">Enter your email to receive our latest updates about our products &amp; promotions. </p><form action=\"#0\" class=\"footer-default__subscrib-form\"><div class=\"footer-input-box\"><input type=\"email\" placeholder=\"Email address\" name=\"email\"><button type=\"submit\" class=\"subscribe_btn\"> Subscribe </button></div></form><div class=\"newsletter-bottom d-flex align-items-center\"><div class=\"footer-title-box\"><p>Follow Us:</p></div><div class=\"footer__medio-boxx medio-boxx d-flex align-items-center\"><ul><li><a href=\"https://www.facebook.com/\" target=\"_blank\" class=\"active\"><i class=\"flaticon-facebook-app-symbol\"></i></a></li><li><a href=\"https://www.youtube.com/\" target=\"_blank\"><i class=\"flaticon-youtube\"></i></a></li><li><a href=\"https://twitter.com/\"><i class=\"flaticon-twitter\" target=\"_blank\"></i></a></li><li><a href=\"https://www.instagram.com/\"><i class=\"flaticon-instagram\" target=\"_blank\"></i></a></li></ul></div></div></div></div></div></div></div></div><!-- footer-bottom Footer--><div class=\"footer_bottom position-relative\"><div class=\"container\"><div class=\"footer_bottom_content\"><div class=\"copyright wow fadeInUp animated\"><p>© 2022 <a href=\"index.html\">Karte.</a> All Rights Reserved.</p></div><div class=\"footer-payment wow fadeInUp animated\"><a href=\"#0\"><img src=\"/assets/images/home-four/method-1.jpg\" alt=\"payment\"></a><a href=\"#0\"><img src=\"/assets/images/home-four/method-2.jpg\" alt=\"payment\"></a><a href=\"#0\"><img src=\"/assets/images/home-four/method-3.jpg\" alt=\"payment\"></a><a href=\"#0\"><img src=\"/assets/images/home-four/method-4.jpg\" alt=\"payment\"></a></div></div></div></div></footer>", 1);
 function render(_ctx, _cache, $props, $setup, $data, $options) {
   var _component_router_link = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("router-link");
   var _component_router_view = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("router-view");
@@ -20123,7 +20150,15 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
       return [_hoisted_45];
     }),
     _: 1 /* STABLE */
-  })])])])])])])])])]), _hoisted_46, _hoisted_49]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_router_view), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("  Footer Three start "), _hoisted_50, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("==== Js Scripts Start ====")]);
+  })])])])])])])])])]), _hoisted_46, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_47, [_hoisted_48, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_49, [_hoisted_50, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_51, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_router_link, {
+    "class": "btn_black",
+    to: "/cart"
+  }, {
+    "default": (0,vue__WEBPACK_IMPORTED_MODULE_0__.withCtx)(function () {
+      return [_hoisted_52];
+    }),
+    _: 1 /* STABLE */
+  }), _hoisted_53])])]), _hoisted_54, _hoisted_55]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_router_view), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("  Footer Three start "), _hoisted_56, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("==== Js Scripts Start ====")]);
 }
 
 /***/ }),
@@ -20222,6 +20257,12 @@ var router = (0,vue_router__WEBPACK_IMPORTED_MODULE_0__.createRouter)({
     name: 'products.show',
     component: function component() {
       return __webpack_require__.e(/*! import() */ "resources_js_views_product_Show_vue").then(__webpack_require__.bind(__webpack_require__, /*! ../views/product/Show.vue */ "./resources/js/views/product/Show.vue"));
+    }
+  }, {
+    path: '/cart',
+    name: 'carts',
+    component: function component() {
+      return __webpack_require__.e(/*! import() */ "resources_js_views_cart_Index_vue").then(__webpack_require__.bind(__webpack_require__, /*! ../views/cart/Index.vue */ "./resources/js/views/cart/Index.vue"));
     }
   }]
 });
@@ -37683,13 +37724,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _App_vue_vue_type_template_id_f348271a__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./App.vue?vue&type=template&id=f348271a */ "./resources/js/App.vue?vue&type=template&id=f348271a");
 /* harmony import */ var _App_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./App.vue?vue&type=script&lang=js */ "./resources/js/App.vue?vue&type=script&lang=js");
-/* harmony import */ var E_lessens_diplom_project_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var C_Users_Terentev_PhpShtorm_Diplom_diplom_koledj_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
 
 ;
-const __exports__ = /*#__PURE__*/(0,E_lessens_diplom_project_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_App_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_App_vue_vue_type_template_id_f348271a__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/App.vue"]])
+const __exports__ = /*#__PURE__*/(0,C_Users_Terentev_PhpShtorm_Diplom_diplom_koledj_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_App_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_App_vue_vue_type_template_id_f348271a__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/App.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -41708,7 +41749,7 @@ function useRoute() {
 /******/ 		// This function allow to reference async chunks
 /******/ 		__webpack_require__.u = (chunkId) => {
 /******/ 			// return url for filenames not based on template
-/******/ 			if ({"resources_js_views_main_Index_vue":1,"resources_js_views_product_Index_vue":1,"resources_js_views_product_Show_vue":1}[chunkId]) return "js/" + chunkId + ".js";
+/******/ 			if ({"resources_js_views_main_Index_vue":1,"resources_js_views_product_Index_vue":1,"resources_js_views_product_Show_vue":1,"resources_js_views_cart_Index_vue":1}[chunkId]) return "js/" + chunkId + ".js";
 /******/ 			// return url for filenames based on template
 /******/ 			return undefined;
 /******/ 		};

@@ -8,7 +8,7 @@
         <div class="row align-items-center justify-content-sm-between">
           <div class="col-lg-5 d-lg-block d-none">
             <div class="newsLetter-popup__thumb imgenews">
-              <img src="/assets/images/home-three/products-1.jpg" alt="newsletter">
+              <img src="/assets/images/home-three/join-with-us.jpg" alt="newsletter">
             </div>
           </div>
           <div class="col-lg-7 col-md-8 col-sm-10">
@@ -42,7 +42,7 @@
           <div class="slide">
             <div class="contant-box position-relative">
 
-              <img class="bg-img hundread-vh" src="/assets/images/home-three/home-3-bg.jpg" alt="image">
+              <img class="bg-img hundread-vh" src="/assets/images/home-three/main-foto-1.jpg" alt="image">
 
               <div class="content-holder p-0 absolute-content">
                 <div class="container  w-100 h-100">
@@ -50,7 +50,7 @@
                     <div class="col-xl-6 col-md-9">
                       <div class="content-common home3c slideup position-relative">
                         <h6 class="new wow animated fadeInUp">NEW COLLECTION</h6>
-                        <h1 class="wow animated fadeInUp" data-wow-delay="0.4s">
+                        <h1 class="wow animated fadeInUp text-white" data-wow-delay="0.4s">
                           Run anywhere <br> comfort everywhere.
                         </h1>
                         <p class="text wow animated fadeInUp">
@@ -72,7 +72,7 @@
             <div class="contant-box position-relative">
 
 
-              <img class="bg-img hundread-vh" src="/assets/images/home-three/home-3-bg-2.jpg" alt="image">
+              <img class="bg-img hundread-vh" src="/assets/images/home-three/main-foto-2.jpg" alt="image">
 
 
               <div class="content-holder p-0 absolute-content">
@@ -109,12 +109,12 @@
           <div class="row mt--30">
             <div class="col-lg-6 h-100 mt-30">
               <a href="shop-grid.html" class="catagory-single one home3cat">
-                <img src="/assets/images/home-three/cat-1.png" alt="#" class="background-img bg-img imgone">
+                <img src="/assets/images/home-three/iphone13.jpg" alt="#" class="background-img bg-img imgone">
                 <div class="content">
                   <div class="row w-100 h-100 align-items-center">
                     <div class="col-xl-7 col-md-9">
                       <h5 class="wow animated fadeInUp" data-wow-delay="0.2s"> Shop & Save</h5>
-                      <h3 class="wow animated fadeInUp" data-wow-delay="0.3s"> Exclusive Women Shoes
+                      <h3 class="wow animated fadeInUp" data-wow-delay="0.3s"> Exclusive Mobile Phone
                       </h3>
                       <span class=" link wow animated fadeInUp" data-wow-delay="0.4s"> explore
                                             now</span>
@@ -127,14 +127,14 @@
               <div class="row">
                 <div class="co-12 mt-30 ">
                   <a href="shop-grid.html" class="catagory-single home3cat">
-                    <img src="/assets/images/home-three/catbg-3.png" alt=""
+                    <img src="/assets/images/home-three/MacBook-1.jpg" alt=""
                          class="background-img bg-img">
                     <div class="content">
                       <div class="row w-100 h-100 align-items-center">
                         <div class="col-12">
                           <h5 class=" wow animated red fadeInUp" data-wow-delay="0.2s"> 20% Off
                           </h5>
-                          <h3 class=" wow animated fadeInUp" data-wow-delay="0.3s"> Men Sneakers
+                          <h3 class=" wow animated fadeInUp" data-wow-delay="0.3s"> Laptop
                           </h3>
                           <span class="link wow animated fadeInUp" data-wow-delay="0.4s"> explore
                                                     now</span>
@@ -145,14 +145,14 @@
                 </div>
                 <div class="col-12 mt-30">
                   <a href="shop-grid.html" class="catagory-single home3cat">
-                    <img src="/assets/images/home-three/catbg-2.png" alt=""
+                    <img src="/assets/images/home-three/sony-camera-2.jpg" alt=""
                          class="background-img bg-img">
                     <div class="content">
                       <div class="row w-100 h-100 align-items-center">
                         <div class="col-xxl-6 col-lg-9">
                           <h5 class=" wow animated fadeInUp" data-wow-delay="0.2s"> New Products
                           </h5>
-                          <h3 class=" wow animated fadeInUp" data-wow-delay="0.3s"> Women Sneakers
+                          <h3 class=" wow animated fadeInUp" data-wow-delay="0.3s"> Professional Camera
                           </h3>
                           <span class="link wow animated fadeInUp" data-wow-delay="0.4s"> explore
                                                     now</span>
